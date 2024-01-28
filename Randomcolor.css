@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    
+    justify-content: center;
+}
+
+button{
+    align-content: center;
+}
+.main{
+    height:200px;
+    width:500px;
+    border:1px solid black;
+    margin:auto;
+    margin-top:3rem;
+    align-items: center;
+}
+.box{
+    height:200px;
+    width:300px;
+    background-color: pink;
+    border:1px solid black;
+}.main{
+    height:300px;
+    width:500px;
+    background-color: rgb(173, 34, 168);
+}                              
+ol{
+   background-color: rgb(28, 147, 163);
+
+}
+li{
+    background-color: rgb(67, 219, 29);
+
+}
+
+
+                              
+                             
